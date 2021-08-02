@@ -109,7 +109,6 @@ public class MainToutTypeClasseIP {
      */
     public static void listerAdresseReseauClasseA(String subnetA) throws IOException, InterruptedException {
         System.out.println("************* Ce nom de domaine correspond à une adresse IP de classe A *************");
-        InetAddress ia;
         String tmp0 = "";
         String tmp1 = "";
         String tmp2 = "";
@@ -139,7 +138,6 @@ public class MainToutTypeClasseIP {
      */
     public static void listerAdresseReseauClasseB(String subnetB) throws IOException, InterruptedException {
         System.out.println("************* Ce nom de domaine correspond à une adresse IP de classe B *************");
-        InetAddress ia;
         String tmp = "";
         String tmp0 = "";
         for (int i = 1; i < 3; i++) {
