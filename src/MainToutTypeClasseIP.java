@@ -49,7 +49,7 @@ public class MainToutTypeClasseIP {
     }
 
     /**
-     * Fonction pour lister toutes les machines en fonction nom de domaine
+     * On liste toutes les machines en fonction nom de domaine
      *
      * @param nomDomaine
      * @throws UnknownHostException
@@ -78,7 +78,7 @@ public class MainToutTypeClasseIP {
     }
 
     /**
-     * Fonction pour retourner une classe d'adresse IP
+     * On retourne une classe d'adresse IP
      *
      * @param adrServeur
      */
@@ -101,7 +101,7 @@ public class MainToutTypeClasseIP {
     }
 
     /**
-     * Fonction pour lister toutes les machines d'adresse IP de classe A
+     * On liste toutes les machines d'adresse IP de classe A
      *
      * @param subnetA
      * @throws IOException
@@ -130,7 +130,7 @@ public class MainToutTypeClasseIP {
     }
 
     /**
-     * Fonction pour lister toutes les machines d'adresse IP de classe B
+     * On liste toutes les machines d'adresse IP de classe B
      *
      * @param subnetB
      * @throws IOException
@@ -152,7 +152,7 @@ public class MainToutTypeClasseIP {
 
 
     /**
-     * Fonction pour lister toutes les machines d'adresse IP de classe C
+     * On liste toutes les machines d'adresse IP de classe C
      *
      * @param subnetC
      * @throws IOException
@@ -184,7 +184,7 @@ public class MainToutTypeClasseIP {
     }
 
     /**
-     * Fonction pour lister à partir du subnet (dans le cas du test2)
+     * On lister à partir du subnet (dans le cas du test2)
      *
      * @param adresseSubnet
      */
